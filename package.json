@@ -1,0 +1,14 @@
+{
+    "name": "zalo-bulk-message",
+    "version": "1.0.0",
+    "description": "Zalo by Elbangkero",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "elbangkero",
+    "license": "MIT",
+    "dependencies": {
+        "puppeteer": "^19.7.2"
+    }
+}
